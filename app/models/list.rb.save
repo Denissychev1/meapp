@@ -1,0 +1,2 @@
+ bin/rails generate model Comment commenter:string body:text article:referencesclass List < ApplicationRecord
+end
